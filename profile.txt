@@ -1,1 +1,4 @@
-name :
+name : Bunyaphon Jansommit
+nickname : Pao
+age : 20
+#my profile
